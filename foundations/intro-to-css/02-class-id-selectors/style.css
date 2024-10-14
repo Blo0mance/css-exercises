@@ -1,0 +1,19 @@
+.num {
+    background-color: #ffb6c1;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#ID {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+.fontsize {
+    font-size: 24px;
+}
+
+#ID2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
